@@ -1,0 +1,108 @@
+[
+    {
+        "id": 1,
+        "name": "Golden Wok",
+        "cuisine": "Chinese",
+        "price": "$$$"
+    },
+
+    {
+        "id": 2,
+        "name": "Tomodachi",
+        "cuisine": "Japanese",
+        "price": "$$"
+    },
+
+    {
+        "id": 3,
+        "name": "Yasui",
+        "cuisine": "Japanese",
+        "price": "$"
+    },
+
+    {
+        "id": 4,
+        "name": "Japchae Joint",
+        "cuisine": "Korean",
+        "price": "$$$"
+    },
+
+    {
+        "id": 5,
+        "name": "Raj Mahal",
+        "cuisine": "Indian",
+        "price": "$$$"
+    },
+
+    {
+        "id": 6,
+        "name": "Hanwoori",
+        "cuisine": "Korean",
+        "price": "$$"
+    },
+
+    {
+        "id": 7,
+        "name": "Samgyetang Station",
+        "cuisine": "Korean",
+        "price": "$"
+    },
+
+    {
+        "id": 8,
+        "name": "Yatra Indian Cuisine",
+        "cuisine": "Indian",
+        "price": "$"
+    },
+
+    {
+        "id": 9,
+        "name": "Fooking Good",
+        "cuisine": "Chinese",
+        "price": "$$"
+    },
+
+    {
+        "id": 10,
+        "name": "Fuurin",
+        "cuisine": "Japanese",
+        "price": "$$$"
+    },
+    {
+        "id": 11,
+        "name": "Jigae Regae",
+        "cuisine": "Korean",
+        "price": "$$"
+    },
+
+    {
+        "id": 12,
+        "name": "Nirvana Banana Leaf",
+        "cuisine": "Indian",
+        "price": "$"
+    },
+
+    {
+        "id": 13,
+        "name": "Mayflower Restaurant",
+        "cuisine": "Chinese",
+        "price": "$$"
+    },
+
+    {
+        "id": 14,
+        "name": "Haruka",
+        "cuisine": "Japanese",
+        "price": "$$$"
+    },
+
+    {
+        "id": 15,
+        "name": "Sung Won ",
+        "cuisine": "Korean",
+        "price": "$$$"
+    }
+
+
+
+]
