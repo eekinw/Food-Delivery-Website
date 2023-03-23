@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "title": "We are customer obsessed",
+        "content": "Our customers are at the heart of everything we do – no two are alike. We walk in their shoes to drive decisions."
+    },
+
+    {
+        "id": 2,
+        "title": "We build trust",
+        "content": "We actively listen, we’re straightforward, and we treat our teams and colleagues with respect. "
+    },
+
+    {
+        "id": 3,
+        "title": "We think big",
+        "content": "We imagine what’s seemingly impossible, not what’s been done before. We’re changing the way people eat and more."
+    },
+    
+    {
+        "id": 4,
+        "title": "We celebrate difference",
+        "content": "Diverse perspectives drive better outcomes for both Deliveroo and our customers. We value all contributions."
+    },
+
+    {
+        "id": 5,
+        "title": "We get to the bottom of things",
+        "content": "We get to the root cause of an issue as quickly as we can using intuition and data to develop our solutions."
+    },
+
+    {
+        "id": 6,
+        "title": "We succeed as a team",
+        "content": "We demonstrate respect and practice empathy to drive our people and our teams closer together. "
+    },
+
+    {
+        "id": 7,
+        "title": "We’re relentless",
+        "content": "There will be lots of unfamiliar obstacles. We either knock them down or figure out a way to get around them."
+    },
+
+    {
+        "id": 8,
+        "title": "We deliver results",
+        "content": "We take ownership for the tasks at hand and deliver high quality. We’re accountable and follow through."
+    },
+
+    {
+        "id": 9,
+        "title": "We simplify",
+        "content": "We simplify our explanations, processes, and approach. We frame issues for those who don’t have context. "
+    },
+
+    {
+        "id": 10,
+        "title": "We embrace change",
+        "content": "We plan for the long term and short term, and adapt where needed. The road is full of twists and turns."
+    },
+
+    {
+        "id": 11,
+        "title": "We’re frugal",
+        "content": "We spend wisely. We prioritise carefully and spend the company’s resources, time and money efficiently."
+    },
+
+    {
+        "id": 12,
+        "title": "We never say “it’s not my job”",
+        "content": "We’re shopkeepers. We have ownership over our own things, but we do what we can to run the best shop in town."
+    }
+]

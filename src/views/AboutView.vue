@@ -2,7 +2,12 @@
 import { RouterView, RouterLink } from 'vue-router';
 import Nav from "../components/Nav.vue"
 import AboutHero from "../components/AboutHero.vue"
+import Values from "../components/Values.vue"
+import WhyUs from "../components/WhyUs.vue"
+import TasteOfLife from "../components/TasteOfLife.vue"
 import Footer from "../components/Footer.vue"
+
+
 </script>
 
 <template>
@@ -10,14 +15,11 @@ import Footer from "../components/Footer.vue"
 
 <AboutHero />
 
-<!-- Our Values -->
+<Values />
 
+<WhyUs />
 
-<!-- What It Means for Us -->
-
-
-<!-- Our ERGs -->
-
+<TasteOfLife />
 
 
 <Footer />

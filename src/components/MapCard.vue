@@ -2,7 +2,7 @@
 
 <template>
     <div class="flex flex-col p-12 justify-center items-center md:flex-row md:h-80 md:w-full">
-      <div>
+      <div class="md:w-3/5">
           <h2 class="text-4xl font-bold">Track orders right to your doorstep</h2>
           <p class="mt-5 mr-5 text-justify">Get your favourite food delivered in a flash. You’ll see when your rider’s picked 
             up your order, and be able to follow them along the way. You’ll get a notification when they’re nearby, too.</p>
@@ -41,8 +41,8 @@
 </div>
 
 
-<div class="mt-6 md:ml-5 md:mr-2 w-full md:w-2/5">
-    <img class="h-60 rounded-lg object-cover" src="../assets/map.jpg" alt="">
+<div class="flex justify-center mt-6 md:ml-5 md:mr-2 w-full md:w-2/5">
+    <img class=" h-60 rounded-lg object-cover" src="../assets/map.jpg" alt="">
   </div>
   
 
