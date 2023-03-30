@@ -1,5 +1,7 @@
 # bite-buddies
 
+This is a work in progress, created this to practice and learn routing in Vue, hence focus was not on styling, will improve the aesthetics in the near future.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
